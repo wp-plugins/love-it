@@ -15,21 +15,21 @@ Love It is a simple plugin that adds a "Love It" link to your posts, pages, and 
 
 The plugin includes a simple widget to show your "Most Loved" items.
 
-This plugin is based of the tutorial I published on [creating a simple Love It plugin]: http://pippinsplugins.com/write-a-love-it-plugin-with-ajax/
+This plugin is based of the tutorial I published on [creating a simple Love It plugin]( http://pippinsplugins.com/write-a-love-it-plugin-with-ajax/)
 
 The demonstration video for the tutorial and the plugin is below:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/Dskc-BUjKxg" frameborder="0" allowfullscreen></iframe>
+[youtube http://www.youtube.com/watch?v=Dskc-BUjKxg]
 
 == Frequently Asked Questions ==
 
 = Can non-logged-in users Love items? =
 
-No, not at this time. The ability for non-logged-in users to Love items with JS cookies will be added to the [pro]:https://pippinsplugins.com/love-it-pro/ version soon.
+No, not at this time. The ability for non-logged-in users to Love items with JS cookies will be added to the [pro](https://pippinsplugins.com/love-it-pro/) version soon.
 
 = Can I enabled the Love It link on only some post types? =
 
-In the [pro]:https://pippinsplugins.com/love-it-pro/ version you can.
+In the [pro](https://pippinsplugins.com/love-it-pro/) version you can.
 
 == Installation ==
 
