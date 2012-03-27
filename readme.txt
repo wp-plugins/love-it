@@ -21,6 +21,21 @@ The demonstration video for the tutorial and the plugin is below:
 
 [youtube http://www.youtube.com/watch?v=Dskc-BUjKxg]
 
+An improved Pro version of the plugin is [available](https://pippinsplugins.com/love-it-pro/). Features of the pro version include:
+
+* Show Love It links automatically
+* Track your most popular posts, pages, and custom post types
+* Setup in less than 5 minutes
+* Enabled / disable for every registered post type
+* Customize the text displayed for links and "already loved" messages
+* Users can only love posts/pages once
+* Works for logged-in and logged-out users
+* Most Loved widget included
+* No coding necessary
+* Custom CSS option for advanced users
+* Embed help documentation in plugin settings
+* Easy to use template tags for developers
+
 == Frequently Asked Questions ==
 
 = Can non-logged-in users Love items? =
