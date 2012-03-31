@@ -5,7 +5,7 @@ Donate link: http://pippinsplugins.com/support-the-site
 Tags: love it, love, like, plus one, love post, most loved
 Requires at least 2.8
 Tested up to 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Love It is a simple plugin that adds a "Love It" link to your posts, pages, and custom post types. Show your most popular items in a widget.
 
@@ -55,11 +55,23 @@ In the [pro](https://pippinsplugins.com/love-it-pro/) version you can.
 
 == Changelog ==
 
+= 1.0.1 = 
+
+* Added the li_love_link($love_text = null, $loved_text = null) function
+* Made it so the li_love_link() function can be used on index / archive pages
+* Updated to JS to work with archive views
+
 = 1.0 =
 
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.0.1 = 
+
+* Added the li_love_link($love_text = null, $loved_text = null) function
+* Made it so the li_love_link() function can be used on index / archive pages
+* Updated to JS to work with archive views
 
 = 1.0 =
 
