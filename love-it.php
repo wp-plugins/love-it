@@ -3,7 +3,7 @@
 Plugin Name: Love It
 Plugin URI: http://pippinsplugins.com
 Description: Adds a "Love It" link to posts, pages, and custom post types
-Version: 1.0.1
+Version: 1.0.3
 Author: Pippin Williamson
 Contributors: mordauk
 Author URI: http://pippinsplugins.com
@@ -24,7 +24,10 @@ if(!defined('LI_BASE_URL')) {
 /***************************
 * language files
 ***************************/
-load_plugin_textdomain( 'love_it', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+function li_load_text_domain() {
+	load_plugin_textdomain( 'love_it', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+}
+add_action( 'init', 'li_load_text_domain' );
 
 /***************************
 * includes

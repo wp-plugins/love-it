@@ -3,9 +3,9 @@ Author URI: http://pippinsplugins.com
 Contributors: mordauk
 Donate link: http://pippinsplugins.com/support-the-site
 Tags: love it, love, like, plus one, love post, most loved
-Requires at least 2.8
-Tested up to 3.3.1
-Stable tag: 1.0.1
+Requires at least: 2.8
+Tested up to: 3.7.1
+Stable tag: 1.0.3
 
 Love It is a simple plugin that adds a "Love It" link to your posts, pages, and custom post types. Show your most popular items in a widget.
 
@@ -54,6 +54,11 @@ In the [pro](https://pippinsplugins.com/love-it-pro/) version you can.
 4. Love It links are displayed to logged-in users only.
 
 == Changelog ==
+
+= 1.0.3 = 
+
+* Added new li_display_love_links_on filter that can be used to modify the post types the Love It links display on
+* Load the text domain on "init"
 
 = 1.0.1 = 
 
