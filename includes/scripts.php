@@ -1,7 +1,7 @@
 <?php
 
 function li_front_end_js() {
-	if(is_user_logged_in() && is_singular()) {
+	if(is_user_logged_in()) {
 		wp_enqueue_script('love-it', LI_BASE_URL . '/includes/js/love-it.js', array( 'jquery' ) );
 		wp_localize_script( 'love-it', 'love_it_vars', 
 			array( 
